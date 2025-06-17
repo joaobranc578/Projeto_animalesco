@@ -1,0 +1,89 @@
+
+
+.cap {
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 500px;
+}
+
+.img-capi {
+  margin-top: 120px;
+  margin-left: 500px;
+}
+
+.topo-capivara {
+  display: flex;
+}
+
+.text-capi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 390px;
+  margin-left: 100px;
+  width: 790px;
+  line-height: 45px;
+}
+
+.capi-title {
+  margin-top: 100px;
+  margin-left: 500px;
+}
+
+.cap-p {
+  margin-top: 40px;
+}
+
+.capi-title2 {
+  margin-top: 390px;
+  margin-left: 100px;
+  width: 790px;
+  line-height: 45px;
+}
+
+.img-habitat {
+  margin-left: 600px;
+  margin-top: -400px;
+}
+
+.compo-cap {
+  margin-left: 490px;
+  margin-top: 100px;
+}
+
+.footer {
+  color: aliceblue;
+}
+
+
+
+body {
+  background: linear-gradient(to bottom, #5cbf3a, #3e9f2f, #267325);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+
+.footer {
+    margin-top: 100px;
+}
+
+.img-nada {
+  margin-left: 480px;
+  margin-top: 100px;
+}
+
+.title-aqua {
+  margin-left: 1100px;
+  margin-top: -470px;
+}
+
+.text-aqua {
+  margin-left: 1100px;
+  margin-top: 30px;
+  width: 450px;
+}
+
+.icon {
+  color: black;
+}
